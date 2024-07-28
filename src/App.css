@@ -1,0 +1,45 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #192026;
+}
+
+.background{
+  width: 1170px;
+  height: 500px;
+  border-radius: 12px;
+  object-fit: cover;
+  opacity: .5;
+}
+
+.movieName{
+  position: absolute;
+  top: 400px;
+  background-color: unset;
+}
+
+.banner{
+  width: 1170px;
+  height: 400px;
+  margin-left: 100px;
+}
+
+
+.description{
+  position: absolute;
+  top: 480px;
+  left: 200px;
+  width: 600px;
+  background-color: unset;
+  color:aliceblue;
+}
+
+.title{
+  margin-top: 120px;
+  margin-left: 120px;
+}
+
+
+
+
